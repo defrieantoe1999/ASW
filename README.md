@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/defrieantoe1999/ASW)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/defrieantoe1999/ASW)
 
 # aria-telegram-mirror-bot
 
