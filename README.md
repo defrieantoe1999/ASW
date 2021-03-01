@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/defrieantoe1999/ASW)
+
 # aria-telegram-mirror-bot
 
 This is a Telegram bot that uses [aria2](https://github.com/aria2/aria2) to download files over BitTorrent / HTTP(S) and uploads them to your Google Drive. This can be useful for downloading from slow servers. Parallel downloading and download queuing are supported. There are some features to try to reduce piracy.
